@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dima-McArrow
+- 👋 Hi, I’m Dimitri Makarov
 - 👀 I’m interested in Computer Science, Programming, Gaming, Cinema, Music.
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on any interesting project
