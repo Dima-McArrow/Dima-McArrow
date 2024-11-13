@@ -13,7 +13,7 @@ OS:
 
 <table align="center">
   <tr>
-    <td align="center" width="150" style="border: none !important;">
+    <td align="center" width="150" height="150">
       <img src="https://skillicons.dev/icons?i=linux" />
       <p align="center"><span style="color:grey">linux</span></p>
     </td>
