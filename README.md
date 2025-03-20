@@ -65,7 +65,7 @@ Web Dev
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=alpinejs,astro,aws,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=alpinejs,astro,tailwind,aws,gcp" />
   </a>
 </p>
 
